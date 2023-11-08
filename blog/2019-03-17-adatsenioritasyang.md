@@ -1,0 +1,23 @@
+---
+title: Adat Senioritas yang Purbakala
+authors: herman
+---
+
+
+# Adat Senioritas yang Purbakala
+![Photo by Jerry Zhang on Unsplash](https://miro.medium.com/v2/resize:fit:720/0*fZ1AlgTB1Z8T3_jf)
+Photo by Jerry Zhang on Unsplash
+
+Yuval Noah Harari dalam bukunya yang berjudul [Sapiens](https://www.ynharari.com/book/sapiens/) memberikan banyak pengetahuan tentang Homo Sapiens, spesies kita telah mulai membentuk jalan sejarahnya sejak 70.000 tahun yang lalu (Yuval menyebutnya dengan revolusi kognitif) dengan merebut kehidupan dan posisi spesies yang lain seperti *Homo erectus* dan *Homo soloensis* yang “tersingkirkan” atas dominasi sapiens di atas muka bumi. Revolusi yang kedua dimulai 12.000 tahun silam disebut revolusi pertanian yang akan menghasilkan kelompok yang mulai maju dalam peradaban manusia. Revolusi yang ketiga adalah revolusi sains yang dimulai 500 tahun silam dengan ditandain berbagai kemajuan sains yang ada.
+
+Sudah sejauh itu sejarah yang ditorehkan oleh manusia sebagai makhluk yang bertindak sebagai pemimpin di bumi ini, yang telah mengembangkan dirinya hingga menjadi puncak rantain makanan yang dulunya sejajar dengan spesies lain yang tersisihkan ketika binatang-binatang besar masih hidup sebagai pemangsa dan menduduki puncak rantai makanan. Menurut yuval, hal ini dimulai ketika manusia dapat membuat api, ketika hewan lain hanya dapat memanfaatkan yang sudah ada seperti elang yang memanfaatkan angin untuk terbang atau tumbuhan yang memanfaatkan matahari untuk berfotosintesis, namun manusia memanfaatkan serta membentuk sendiri energi yang mereka butuhkan, salah satu pencapaian awalnya adalah : api.
+
+Manusia telah menang dengan pemanfaatan energi dan alat-alat yang mereka ciptakan dan buat, namun dengan semua kemenangan itulah mereka seakan sombong (padahal sapiens berarti bijak) dan menghancurkan peradaban spesies lainnya. kesombongan dan keangkuhan ini menjalar dan menghancurkan berbagai tindak kosmis yang ada di dunia seperti pemanasan global yang telah meningkatkan suhu di bumi hingga titik yang mengkhawatirkan dalam beberapa dekade terakhir, atau kepunahan hewan-hewan lain.
+
+Tidak puas dengan tindakan merusak alam yang ada, mereka melanjutkan dengan melakukan tindakan yang lebih tercela dengan menggiring golongan-golongan dari spesies nya sendiri untuk dibunuh secara massal. Pembunuhan secara massal manusia (baca: genosida) telah banyak dilakukan, contoh yang terbesar adalah [holocaus](https://id.wikipedia.org/wiki/Holokaus) yang dilakukan dengan keji oleh [nazi](https://id.wikipedia.org/wiki/Jerman_Nazi) yang menyebabkan 17 juta jiwa manusia melayang dengan sia-sia, belum lagi beberapa [genosida lainnya ](https://kumparan.com/@kumparannews/daftar-kasus-genosida-terbesar-sepanjang-masa)seperti kejadian genosida nanking oleh jepang tahun 1939 yang telah menewaskan 300 ribu jiwa, atau pembantaian massal pendukung PKI (Partai Komunis Indonesia) di Indonesia.
+
+Nampaknya kemampuan berupa watak ambisius dan dominasi telah membuat manusia begitu garang dalam melakukan tugasnya sebagai pemimpin di bumi, bahkan hingga tingkat kepemimpinan kecil sekalipun seperti kepemimpinan di kampus. Banyak sekali senioritas yang dibawa oleh mahasiswa untuk mendominasi satu sama lainnya, menjatuhkan yang lain, dan semua itu dilakukan dengan berbagai alasan yang sejujurnya tidak masuk akal. Senioritas dalam lingkungan mahasiswa begitu luas cakupannya, dan acap kali menimbulkan kerugian bagi junior yang ada.
+
+Beberapa kasus senioritaspun bisa berakhir dengan tragis, seperti yang dikutip dari [okezone ](https://news.okezone.com/read/2015/08/04/65/1190267/10-kasus-kematian-akibat-plonco-ospek-maut)yang memberitakan bahwa terdapat 10 kasus kematian yang diakibatkan ospek, yang kebanyakan dikarenakan hukuman oleh seniornya. Sesuatu yang memilukan bila saja kita melihat dengan seksama apa yang sebenarnya terjadi, ini semua berawal dari keinginan manusia untuk mendominasi satu sama lain dan enggan terlihat bodoh atau lemah diantara yang lain. Senioritas seperti ini adalah bentuk kecacatan pemikiran yang diciptakan manusia, mereka menggunakan kedudukannya yang lebih tinggi (atau karena hanya lebih tua saja) untuk dapat mendominasi dan memberikan kesan “kekuasaan” yang ditunjukan olehnya kepada juniornya.
+
+Pada akhirnya senioritas memiliki banyak hal buruk yang memberikan keuntungan besar, senioritas hanya menjadi ajang pembuktian bagi ambisi ambisi manusia yang tidak bertanggung jawab dan hanya mau menang sendiri. Sudah saatnya bagi manusia untuk saling berkolaborasi satu sama lain untuk bisa memajukan peradaban mereka sendiri.

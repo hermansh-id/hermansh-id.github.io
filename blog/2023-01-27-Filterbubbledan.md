@@ -1,0 +1,22 @@
+---
+title: Filter bubble dan kehendak manusia atas hidup
+authors: herman
+image: https://hermansh-id.medium.com/filter-bubble-dan-kehendak-manusia-atas-hidup-da1894553383
+---
+
+
+# Filter bubble dan kehendak manusia atas hidup
+![Photo by Alfred Kenneally on Unsplash](https://miro.medium.com/v2/resize:fit:720/0*RsGHz22nJMhfmcOx)
+Photo by Alfred Kenneally on Unsplash
+
+Manusia berkembang dengan cara saling berbagi apa yang mereka mengerti tentang hidup. Berbagi tahu mengenai bagaimana cara membudidayakan bahan makanan sehingga sekarang manusia tidak perlu berburu dan mengumpulkan makanan kembali. Berbagi ilmu dan teknologi sehingga setiap orang bisa mengembangkan kembali ilmu dan teknologi itu lalu kembali disebarkan, hal inilah yang terus membuat manusia menjadi kuat dan maju.
+
+Hingga sampai pada masa masa modern dan globalisasi, setiap informasi dapat diakses dengan sangat mudah dan tidak terbatas, dari yang paling sederhana hingga hal hal kompleks yang dulu tidak dapat diakses dengan mudah. Kampanye kampanye mengenai keterbukaan data memberikan tanda bahwa manusia memiliki keinginan untuk terus berbagi pengetahuan dan membuka pengetahuan bersama sehingga kemajuan manusia dapat dipercepat kembali.
+
+Banyaknya informasi yang masuk menyebabkan manusia bisa menjadi apa saja yang dia mau, seorang ibu rumah tangga dapat mengerti fisika dan astronomi, dan seorang tukang bangunan dapat mengerti ekonomi makro negara rusia. Hal tersebut menyebabkan permasalahan yang masif, yaitu hilangnya kepakaran. Hilangnya kepakaran disebabkan karena meluasnya informasi yang didapatkan oleh individu, sehingga satu individu mendapat informasi-informasi yang berada di luar bidangnya. Dalam beberapa aspek ini adalah hal yang baik karena setiap orang dapat mengerti diluar bidangnya, namun dalam keprofesian hal ini akan menyebabkan bias. Kita pada dasarnya tidak membutuhkan koki yang mengerti astronomi namun membutuhkan koki yang expert dalam membuat makanan-makanan yang menakjubkan begitupula kita tidak membutuhkan astronom yang mengerti benar cara memasak makanan yang enak namun kita membutuhkan astronom yang sangat pandai untuk mengamati angkasa.
+
+Dari sini lah keinginan untuk dapat mengarahkan manusia sesuai keinginan dan bidang minatnya mulai diperbincangkan. Berbagai skema dilakukan hingga pada ranah sosial media yang pada akhir-akhir post-modernisasi melejit dan menjadi pusat kehidupan manusia. Berbagai perusahaan menggunakan algoritma untuk dapat memberikan konten-konten yang sesuai dengan bidang dan minat dari seorang individu. Hal ini untuk menghindarkan pengguna dari konten yang enggan ia lihat. Sampai saat ini, algoritma ini terus berkembang hingga banyak ahli mengatakan manusia kini terjebak dalam permasalahan baru bernama Filter Bubble dimana seseorang terjebak dalam dunia yang telah tersegmentasi.
+
+Bagi saya, ini bukanlah permasalahan, ini adalah sebuah peluang yang harus bisa disifati dengan baik. Dengan segmentasi yang pantas atas informasi, akan membuat manusia bertindak sesuai dengan apa yang ia kehendaki, dan algoritma semacam ini pada dasarnya hanya mengakomodasi kehendak manusia. Kehendak manusia pada dasarnya berdasar pada preferensi dirinya pada kehendak kehendak ideal manusia. Misalkan seorang anak yang bermimpi (meng-ideal-kan) menjadi pesepak bola mustinya melakukan hal-hal yang bersesuaian dengan sepak bola seperti berlatih di sekolah sepak bola dan bermain dengan bola. Kehendak ideal ini akan menjadi dasar kehendak manusia dan ketika ada informasi-informasi lain selain kehendak ideal ini bisa jadi kehendak ideal ini akan terganggu dan menyebabkan kehendak tersebut runtuh.
+
+Manusia pada dasarnya berkehendak untuk terus mewujudkan kehendak-kehendak nya, dan dengan itu ia membutuhkan informasi-informasi untuk mewujudkannya. Filter bubble dapat menjadi jawaban atas hal itu, manusia dapat terus menambah pengetahuan di bidang kehendak idealnya saja sehingga ia dapat menjadi ahli di bidang tersebut. Masalah yang sesungguhnya muncul adalah bahwa hal ini (personalisasi konten) tidak boleh hanya di implementasikan di sosial media, namun dalam konten-konten pendidikan seperti aplikasi journal dan lain-lainnya. Justru ini menunjukkan keinginan manusia untuk terus berkutat pada bisnis lebih tinggi dibandingkan pada bidang pendidikan dan pengetahuan, ini lah yang pada akhirnya akan mengikis pendidikan dan penelitian secara tidak langsung.

@@ -41,11 +41,22 @@ const config: Config = {
             "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         blog: {
+          blogTitle: "Stories",
+          blogDescription: "Powered stories by Herman",
+          postsPerPage: "ALL",
           showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+          feedOptions: {
+            type: "all",
+            copyright: `Copyright © ${new Date().getFullYear()}, Herman.`,
+            createFeedItems: async (params) => {
+              const { blogPosts, defaultCreateFeedItems, ...rest } = params;
+              return defaultCreateFeedItems({
+                // keep only the 10 most recent blog posts in the feed
+                blogPosts: blogPosts.filter((item, index) => index < 10),
+                ...rest,
+              });
+            },
+          },
         },
         theme: {
           customCss: "./src/css/custom.css",
@@ -70,7 +81,7 @@ const config: Config = {
           position: "left",
           label: "Project docs",
         },
-        { to: "/blog", label: "Blog", position: "left" },
+        { to: "/blog/archive", label: "Blog", position: "left" },
         {
           href: "https://github.com/hermansh-id",
           label: "GitHub",
