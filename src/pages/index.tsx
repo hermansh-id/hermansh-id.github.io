@@ -3,6 +3,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import HomeHeader from '@site/src/components/homeHeader';
 import Heading from '@theme/Heading';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFileAlt } from "@fortawesome/free-solid-svg-icons";
